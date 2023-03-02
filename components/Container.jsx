@@ -1,10 +1,16 @@
 import React from 'react'
+import Navbar from './Navbar'
+import Footer from './Footer'
 
-const Container = ({children}) => {
+const Container = ({ children }) => {
   return (
-    <main className='max-w-2xl mx-auto'>
-      <section className='my-8'>{children}</section>
-    </main>
+    <>
+      <Navbar />
+      <main>
+        <section>{children}</section>
+      </main>
+      <Footer />
+    </>
   )
 }
 
