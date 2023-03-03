@@ -12,8 +12,15 @@ import StrukturPasarLevel from '@/components/preschool/StrukturPasarLevel'
 import PartisipanPemainForex from '@/components/preschool/PartisipanPemainForex'
 import SejarahForex from '@/components/preschool/SejarahForex'
 import SesiJamBukaForex from '@/components/preschool/SesiJamBukaForex'
+import PasarTradingForexAsia from '@/components/preschool/PasarTradingForexAsia'
+import PasanganTradingForexLondon from '@/components/preschool/PasanganTradingForexLondon'
+import PasarTradingForexNY from '@/components/preschool/PasarTradingForexNY'
+import SaatTepatTrading from '@/components/preschool/SaatTepatTrading'
+import WaktuTerbaikTrading from '@/components/preschool/WaktuTerbaikTrading'
+import PenghasilanTrading from '@/components/preschool/PenghasilanTrading'
+import AnalisaPasanganUang from '@/components/preschool/AnalisaPasanganUang'
 const Kelastrading = () => {
-  return <SesiJamBukaForex />
+  return <AnalisaPasanganUang />
 }
 
 export default Kelastrading

@@ -46,13 +46,11 @@ const Likuiditas = () => {
             Grafik di bawah ini menunjukan tujuh mata uang yang sering
             diperdagangkan secara aktif.
           </p>
-
-          <blockquote>
-            karena terdapat dua mata uang yang terlibat dalam setiap transaksi,
+          <blockquote className="p-4 my-4 border-l-4 border-gray-300 bg-gray-50">
+              <p className="text-xl italic font-medium leading-relaxed text-gray-900">"Karena terdapat dua mata uang yang terlibat dalam setiap transaksi,
             total jumlah persentase saham masing-masing mata uang adalah 200%,
-            bukan 100%
+            bukan 100%"</p>
           </blockquote>
-
           <p>
             <strong>Dollar</strong> adalah mata uang yang paling sering
             diperdagangkan, dengan total volume transaksi mencapai 84.9%.
