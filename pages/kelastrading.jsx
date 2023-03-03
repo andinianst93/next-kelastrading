@@ -11,8 +11,9 @@ import ForexvsFutures from '@/components/preschool/ForexvsFutures'
 import StrukturPasarLevel from '@/components/preschool/StrukturPasarLevel'
 import PartisipanPemainForex from '@/components/preschool/PartisipanPemainForex'
 import SejarahForex from '@/components/preschool/SejarahForex'
+import SesiJamBukaForex from '@/components/preschool/SesiJamBukaForex'
 const Kelastrading = () => {
-  return <SejarahForex />
+  return <SesiJamBukaForex />
 }
 
 export default Kelastrading
