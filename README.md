@@ -3,7 +3,7 @@ Monday, 6 March 2023
 2. SEO Weekly meeting
 3. Upload Glosarium (testing) - Helicopter Money, instrumen keuangan, Book Value
 4. Coordinate with front end developer
-5. Broken canonical in Glossary => Arbitrase Internasional, Aset Likuid, Aset Tidak Lancar, Average Down, Average Rate of Return, Book Value
+5. Broken canonical in Glossary => Arbitrase Internasional, Aset Likuid, Aset Tidak Lancar, Average Down, Average Rate of Return, Book Value, capital loss
 
 
 <table width="525">
