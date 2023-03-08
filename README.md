@@ -13,3 +13,10 @@ category/${category.id}
 <@cms.category id=category.parentId>${object.code}/</@cms.category>${category.code}/<@cms.tag ids=content.tagIds><#list map as k,v>${v.name!}<#sep>,</#list></@cms.tag>/index.html
 
 
+Selasa, 7 03 2023
+
+1. Partnership - UI bg belum responsive untuk mobile dan desktop // pending
+2. Give lists of URL's 301 redirection to Lead Engineer, Leo - https://docs.google.com/spreadsheets/d/1LpQNZPRAmhNVhQUdsK-ZGITS8m2AnFgyMNtROD_Cb4w/edit#gid=1057261812
+3. Revise canonical and content styling in Glossary A, B, C, D, E, F, G, H, and I.
+4. Coordinate to revise breadcrumb in Glossary's article page.
+5. Coordinate to add schema json to Glossary's article page.
