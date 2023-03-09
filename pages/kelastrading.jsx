@@ -19,8 +19,17 @@ import SaatTepatTrading from '@/components/preschool/SaatTepatTrading'
 import WaktuTerbaikTrading from '@/components/preschool/WaktuTerbaikTrading'
 import PenghasilanTrading from '@/components/preschool/PenghasilanTrading'
 import AnalisaPasanganUang from '@/components/preschool/AnalisaPasanganUang'
+import ApaItuPip from '@/components/preschool/ApaItuPip'
+import ApaItuKomisiForex from '@/components/preschool/ApaItuKomisiForex'
+import ArtiMarginForex from '@/components/preschool/ArtiMarginForex'
+import ApaItuSpreead from '@/components/preschool/ApaItuSpreead'
+import ApaItuLot from '@/components/preschool/ApaItuLot'
+import BiddanAskTrading from '@/components/preschool/BiddanAskTrading'
+import BentukJenisOrder from '@/components/preschool/BentukJenisOrder'
+import SimulasiTrading from '@/components/preschool/SimulasiTrading'
+import TradingKayaRaya from '@/components/preschool/TradingKayaRaya'
 const Kelastrading = () => {
-  return <AnalisaPasanganUang />
+  return <TradingKayaRaya />
 }
 
 export default Kelastrading

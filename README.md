@@ -20,3 +20,31 @@ Selasa, 7 03 2023
 3. Revise canonical and content styling in Glossary A, B, C, D, E, F, G, H, and I.
 4. Coordinate to revise breadcrumb in Glossary's article page.
 5. Coordinate to add schema json to Glossary's article page.
+
+N, P, T, S, R, U
+
+<ul class=" list-paddingleft-2" style="list-style-type: disc;">
+    <li>
+            <a href="https://blog.hsb.co.id/forex/cara-menggunakan-sell-limit-dan-buy-limit/">Buy limit order</a> hanya akan dieksekusi di harga limit atau harga yang lebih rendah.
+    </li>
+    <li>
+            <a href="https://www.hsb.co.id/app/2020-08-06/34807.html">Sell limit order</a> hanya akan dieksekusi di harga limit atau harga yang lebih tinggi.
+    </li>
+</ul>
+
+
+
+Just input from me for content writers:
+1. Check the facts first. Example: https://www.hsb.co.id/learn/forex/technical-analysis.html When I asked one of our Market Analysts, they said it was right or wrong. But if we talk about technical analysis, it's more about charts.
+This fact also includes the writing of names of people, places, foreign terms, forex terms, etc.
+2. Edit the language. Example: https://www.hsb.co.id/glosarium/b/base-currency last paragraph. One more example https://www.hsb.co.id/glosarium/h/helicopter-money
+3. It's not about what keywords are. But more to good and correct Indonesian. The solution is lots of reading references. If you don't read a book, then read a newspaper. How can you write if you have never read? I can write that's why I know. I also have scientific article publications. I can write articles that's why I'm angry because I know and I can write better articles, Pak Tunggal dan Mas Inung taught me well. Better than I code. But I don't want to do it here because writing is exhausting.
+
+
+I want to make sure, content like this will still be migrated?
+https://www.hsb.co.id/learn/forex/pre1.html
+https://www.hsb.co.id/learn/forex/pre2.html
+https://www.hsb.co.id/learn/forex/pre3.html
+This looks more like a Facebook status than an educational article.
+
+If you ask me what input for the writer. I only got one message It's not about what keywords are. But more to good and correct Indonesian. The solution is lots of reading references. If you don't read a book, then read a newspaper. How can you write if you have never read? I can write that's why I know. I also have scientific article publications. I can write articles that's why I'm angry because my former boss taught me well. Find in Google Indonesia "Aplikasi Drum Terbaik". I write better than coding. But I don't want to do it here because writing good articles is exhausting.

@@ -11,6 +11,8 @@ const TOC = ({
   toc8,
   toc9,
   toc10,
+  toc11,
+  toc12
 }) => {
   return (
     <div className='tab'>
@@ -64,6 +66,16 @@ const TOC = ({
         <li>
           <h2>
             <a>{toc10}</a>
+          </h2>
+        </li>
+        <li>
+          <h2>
+            <a>{toc11}</a>
+          </h2>
+        </li>
+        <li>
+          <h2>
+            <a>{toc12}</a>
           </h2>
         </li>
       </ol>
