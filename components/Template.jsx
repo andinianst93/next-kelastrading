@@ -18,6 +18,7 @@ const Template = () => {
       <article className='py-4 px-8 mx-auto max-w-screen-lg'>
         <TOC toc1='number' toc2='number' />
         <div className='partcon'>
+          <Section></Section>
           <Section>
             <Heading number='1' heading='heading' />
             {/* Content */}
