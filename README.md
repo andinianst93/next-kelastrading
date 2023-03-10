@@ -83,6 +83,11 @@ https://www.hsb.co.id/akademi/mengenal-analisa-fundamental
 https://www.hsb.co.id/akademi/apa-itu-sentimen-pasar
 https://www.hsb.co.id/akademi/analisa-forex-terbaik
 https://www.hsb.co.id/akademi/jenis-chart-pattern
+https://www.hsb.co.id/akademi/akademi/pasangan-mata-uang-forex
+https://www.hsb.co.id/akademi/akademi/apa-yang-diperdagangkan-di-forex
+
+https://www.hsb.co.id/akademi/likuiditas-dan-volume-trading-forex - field probs
+
 
 
 
