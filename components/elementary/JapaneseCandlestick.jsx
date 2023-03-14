@@ -20,7 +20,10 @@ const JapaneseCandlestick = () => {
         />
       </section>
       <article className='py-4 px-8 mx-auto max-w-screen-lg'>
-        <TOC toc1='Apa itu candlestick jepang?' toc2='number' />
+        <TOC
+          toc1='Apa itu candlestick jepang?'
+          toc2='Komponen Candlestick Jepang'
+        />
         <div className='partcon'>
           <Section>
             <p>
