@@ -11,8 +11,8 @@ const Template = () => {
       <section className='bg-[#00028f] w-full pt-12'>
         <Breadcrumb title1='Akademi' title2='Kelas Trading' title3='judul' />
         <Header
-          title='Tentang Hello'
-          description='Platform Informasi yang khusus membahas hal-hal seputar Digital Marketing yakni Search Engine Optimization (SEO), Media Sosial, Digital Ads, dan Web Development.'
+          title='Tentang'
+          description='hhahah'
         />
       </section>
       <article className='py-4 px-8 mx-auto max-w-screen-lg'>

@@ -47,13 +47,7 @@ Kamis 9 Maret 2023
 4. Revise button placement in blog.
 
 Jumat 10 Maret 2023
-
-
-Just input from me for content writers:
-1. Check the facts first. Example: https://www.hsb.co.id/learn/forex/technical-analysis.html When I asked one of our Market Analysts, they said it was right or wrong. But if we talk about technical analysis, it's more about charts.
-This fact also includes the writing of names of people, places, foreign terms, forex terms, etc.
-2. Edit the language. Example: https://www.hsb.co.id/glosarium/b/base-currency last paragraph. One more example https://www.hsb.co.id/glosarium/h/helicopter-money
-3. It's not about what keywords are. But more to good and correct Indonesian. The solution is lots of reading references. If you don't read a book, then read a newspaper. How can you write if you have never read? I can write that's why I know. I also have scientific article publications. I can write articles that's why I'm angry because I know and I can write better articles, Pak Tunggal dan Mas Inung taught me well. Better than I code. But I don't want to do it here because writing is exhausting.
+1. Finish kindergarten and deploy it to UAT.
 
 
 I want to make sure, content like this will still be migrated?
@@ -96,3 +90,16 @@ https://www.hsb.co.id/akademi/likuiditas-dan-volume-trading-forex - field probs
 
 
 akademi/<@cms.tag ids=content.tagIds><#list map as k,v>${v.name!}<#sep>,</#list></@cms.tag>/index.html
+
+
+Senin 13 Maret 2022
+1. Migration 40 links from UAT to PRD
+2. SEO Weekly Meeting
+3. Meeting with engineers
+
+
+https://www.hsb.co.id/akademi/kelas-trading - should be updated
+editing .html in canonical in glossary
+run full site audit
+check edu one by one and audit breadcrumb and description
+upload all alphabet glossary
